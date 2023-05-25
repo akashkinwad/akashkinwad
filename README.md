@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 
 - 📫 You can reach to me : email me at akashkinwad@gmail.com or call me on +919004335888.
 
-- 🔭 I’m currently working at Josh Software, Pune as Senior Software Engineer.
+- 🔭 I’m currently building ![Peoplebox](https://www.peoplebox.ai)
 - 🌱 I’m currently learning &nbsp;&nbsp;
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
